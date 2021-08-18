@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho com Front-end
 - 🌱 Estudando React Native
-- 💬 Contate-me no email: diefersonfrontenddeveloper@gmail.com
 
 <a href="https://github.com/frontendDieferson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frontendDieferson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
